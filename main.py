@@ -1,3 +1,4 @@
-print("Hello, World!")
-print("This is a test.")
-print("another test")
+def sumar(a,b):
+    return a +b 
+def restar(a, b):
+    return a - b
