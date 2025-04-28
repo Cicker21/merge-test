@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import archivo as archivo 
 def main():
     a = 3
@@ -9,7 +8,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-=======
-def sumar(a,b):
-    return a +b 
->>>>>>> origin/branchM
